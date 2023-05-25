@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ScreenSpaceApp</string>
+    <string name="ScreenSpace">ScreenSpace</string>
+    <string name="Bienvenido">¡Bienvenido!</string>
+    <string name="CrearCuenta">Crear Cuenta</string>
+    <string name="IniciarSesion">Iniciar Sesion</string>
+    <string name="IngresarGoogle">Ingresar con Google</string>
+    <string name="Back">Back</string>
+    <string name="IngreseSuEmailYContrasena">Ingrese su email y contraseña</string>
+    <string name="email">Email</string>
+    <string name="IngresarEmail">ejemplo@ejemplo.com</string>
+    <string name="Contrasena">Contraseña</string>
+    <string name="IngresarContrasena">********</string>
+    <string name="CuentaCreadaExito">¡Cuenta creada exitosamente!</string>
+    <string name="MenuPrincipal">Menu Principal</string>
+    <string name="OlvidoContrasena">OLVIDÉ MI CONTRASEÑA</string>
+    <string name="CambiarContrasena">Cambiar contraseña</string>
+    <string name="ContrasenaCambiada">Se le envió un mail con el cambio de contraseña.</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="RegistrarseTexto">Ingrese los datos para crear una nueva cuenta.</string>
+    <string name="RecuperoContraseña">Recupero de contraseña</string>
+    <string name="EmailEnviado">Email enviado</string>
+    <string name="Inicio">Inicio</string>
+    <string name="CerrarSesion">Cerrar sesion</string>
+</resources>

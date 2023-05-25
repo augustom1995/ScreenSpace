@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200321959716",
+    "project_id": "screenspaceapp",
+    "storage_bucket": "screenspaceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200321959716:android:9db490e8d7a44dfdf415b1",
+        "android_client_info": {
+          "package_name": "com.example.screenspaceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200321959716-ap7129gj138v1427bld9cu36ikb5mcaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.screenspaceapp",
+            "certificate_hash": "3530d20dd63339a5ef2a9beef8e1f654cf920473"
+          }
+        },
+        {
+          "client_id": "200321959716-q1ivehn6ri74bnj71jppc4n6m3813n3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWf0mWX5ZxtQBHphh4t5L56T0SJPtppnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200321959716-q1ivehn6ri74bnj71jppc4n6m3813n3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

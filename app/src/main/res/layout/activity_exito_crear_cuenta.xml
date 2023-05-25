@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blackApp"
+    tools:context=".exito_crear_cuenta">
+
+    <TextView
+        android:id="@+id/whiteBack4"
+        android:layout_width="355dp"
+        android:layout_height="520dp"
+        android:layout_marginBottom="116dp"
+        android:background="@color/whiteApp"
+        app:cornerRadius="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="326dp"
+        android:layout_height="246dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/CuentaCreadaExito"
+        android:textColor="@color/blueApp"
+        android:textSize="48sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/whiteBack4" />
+
+    <Button
+        android:id="@+id/Inicio"
+        android:layout_width="355dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="@color/blueApp"
+        android:onClick="Menu"
+        android:text="@string/Inicio"
+        android:textColor="@color/whiteApp"
+        app:cornerRadius="25dp"
+        app:layout_constraintBottom_toTopOf="@+id/sign_in_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/whiteBack4" />
+</androidx.constraintlayout.widget.ConstraintLayout>
