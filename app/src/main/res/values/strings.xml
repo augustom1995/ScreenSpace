@@ -22,4 +22,14 @@
     <string name="EmailEnviado">Email enviado</string>
     <string name="Inicio">Inicio</string>
     <string name="CerrarSesion">Cerrar sesion</string>
+    <string name="TusCines">Tus Cines</string>
+    <string name="TusSalas">Tus Salas</string>
+    <string name="ModificarSalas">Modificar salas</string>
+    <string name="Direccion">Direccion</string>
+    <string name="Empresa">Empresa</string>
+    <string name="Nombre">Nombre</string>
+    <string name="PrecioEntrada">Precio entrada</string>
+    <string name="DimensionesSala">Dimensiones de la sala</string>
+    <string name="Filas">Filas</string>
+    <string name="Columnas">Columnas</string>
 </resources>

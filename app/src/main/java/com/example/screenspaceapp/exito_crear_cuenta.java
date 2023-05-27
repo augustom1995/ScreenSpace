@@ -16,9 +16,9 @@ public class exito_crear_cuenta extends AppCompatActivity {
 
     public void Menu(View view){
 
-        Intent inicio = new Intent(this, MainActivity.class);
+        Intent inicio = new Intent(this, inicio_admin.class);
         startActivity(inicio);
-        //finish();
+        finish();
     }
 
 }
