@@ -32,4 +32,8 @@
     <string name="DimensionesSala">Dimensiones de la sala</string>
     <string name="Filas">Filas</string>
     <string name="Columnas">Columnas</string>
+    <string name="IngreseNombreYFoto">Ingrese su nombre y foto de perfil</string>
+    <string name="Actualizar">Actualizar</string>
+    <string name="EliminarPerfil">Eliminar perfil</string>
+    <string name="PerfilActualizadoExito">Perfil actualizado con exito</string>
 </resources>

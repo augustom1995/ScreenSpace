@@ -12,6 +12,12 @@
         android:theme="@style/Theme.ScreenSpaceApp"
         tools:targetApi="31">
         <activity
+            android:name=".config_cuenta_usuarios"
+            android:exported="false" />
+        <activity
+            android:name=".exito_modificar_cuenta"
+            android:exported="false" />
+        <activity
             android:name=".modificar_sala"
             android:exported="false" />
         <activity
