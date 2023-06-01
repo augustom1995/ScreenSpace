@@ -209,13 +209,15 @@ public class MainActivity extends AppCompatActivity {
 
         Intent crearCuenta = new Intent(this, crear_cuenta.class);
         startActivity(crearCuenta);
+        finish();
     }
 
     private void sendUserToNextActivity() {
 
-        Intent intent= new Intent(MainActivity.this,inicio_usuarios.class);
+        Intent intent= new Intent(MainActivity.this,inicio_admin.class);
         intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK|Intent.FLAG_ACTIVITY_NEW_TASK);
         startActivity(intent);
+        finish();
 
     }
 
