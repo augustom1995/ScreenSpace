@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_cines"
+        android:icon="@mipmap/cinebutton"
+        android:title="Cines" />
+    <item
+        android:id="@+id/action_opciones"
+        android:icon="@mipmap/optionbutton"
+        android:title="Opciones" />
+</menu>
